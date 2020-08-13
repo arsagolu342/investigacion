@@ -6,6 +6,11 @@
     <title>Document</title>
 </head>
 <body>
+<<<<<<< HEAD
     <a href=" ariel.php"> Hoja de vida -Ariel Gordillo </a>
+=======
+<a href="samiel.php">Hoja de Vida - Samiel Morejon</a>
+    
+>>>>>>> origin/Samiel
 </body>
 </html>
