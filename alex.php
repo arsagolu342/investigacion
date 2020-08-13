@@ -9,9 +9,8 @@
     <h1>Alex Paúl Vásquez Cadena</h1>
     <p> Domicilio : Quito <br>
         Edad : 23 años <br>
-        Hobies : Fútbol , Música , Películas
-    
-    
+        Hobbies : Fútbol , Música , Películas
+      
     </p>
 </body>
 </html>
